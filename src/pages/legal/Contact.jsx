@@ -101,11 +101,11 @@ export default function ContactPage() {
         </form>
 
         <p className="text-center mt-8 font-semibold">
-          📧 support@lordobitotech.xyz
+          📧 roancyberhack@gmail.com
         </p>
 
         <p className="text-center mt-2 text-slate-500">
-          Horaires de réponse : Monday to Saturday, 8am – 6pm (GMT)
+          Answer To Your Request Will Be Given From Monday - Saturday At 6Am - 6Pm
         </p>
       </div>
 
