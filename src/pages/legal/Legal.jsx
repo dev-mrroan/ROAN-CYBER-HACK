@@ -14,12 +14,12 @@ export default function Legal() {
         <li>
           <strong>URL :</strong>{" "}
           <a
-            href="https://lordobitotech.xyz"
+            href="https://roancyberhack@gmail.com"
             target="_blank"
             rel="noreferrer"
             className="text-blue-600 hover:underline"
           >
-            https://lordobitotech.xyz
+            https://roancyberhack@gmail.com
           </a>
         </li>
 
