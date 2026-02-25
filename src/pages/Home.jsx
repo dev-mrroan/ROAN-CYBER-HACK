@@ -25,7 +25,7 @@ export default function Home() {
       id: 2,
       title: "ROAN CYBER HACK",
       desc: "The safety company is a center where problems discorve are directly maintained and repair..",
-      link: "https://lordobitotech.xyz",
+      link: "https://whatsapp.com/channel/0029VbB8P8WLCoWwrOnDDcOn",
       github: "https://github.com/dev-mrroan",
       tags: ["React", "Tailwind", "Vite"],
     },
