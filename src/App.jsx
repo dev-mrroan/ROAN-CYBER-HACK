@@ -5,7 +5,6 @@ import Home from "./pages/Home";
 import Blog from "./pages/Blog";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
-import Team from "./pages/Team.jsx";
 
 import PrivacyPolicy from "./pages/legal/PrivacyPolicy";
 import Terms from "./pages/legal/Terms";
