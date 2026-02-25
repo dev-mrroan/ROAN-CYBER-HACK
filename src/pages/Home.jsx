@@ -18,7 +18,7 @@ export default function Home() {
       id: 1,
       title: "BLOG ROAN CYBER HACK",
       desc: "Blog of my project and personal business ROAN CYBER HACK",
-      link: "https://roancyberhack@gmail.com/blog",
+      link: "https://whatsapp.com/channel/0029VbB8P8WLCoWwr0nDDc0n",
       tags: ["React", "Vite", "Tailwind"],
     },
     {
