@@ -27,7 +27,7 @@ const articlesData = [
         <p>
           📦 Fichiers du bot ➡️{" "}
           <a
-            href="https://t.me/Lord_obito_tech_official/37"
+            href="https://whatsapp.com/channel/0029VbB8P8WLCoWwrOnDDcOn"
             className="text-blue-600 underline"
             target="_blank"
             rel="noopener noreferrer"
