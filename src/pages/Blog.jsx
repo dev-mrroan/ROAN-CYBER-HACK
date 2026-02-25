@@ -16,7 +16,7 @@ const articlesData = [
         <p>
           📹 Regarde le tuto complet ici 👉{" "}
           <a
-            href="https://youtu.be/-24iwWriOCc"
+            href="https://www.youtube.com/@ROANTUTO"
             className="text-blue-600 underline"
             target="_blank"
             rel="noopener noreferrer"
