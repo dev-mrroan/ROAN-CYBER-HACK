@@ -11,8 +11,6 @@ import Terms from "./pages/legal/Terms";
 import Legal from "./pages/legal/Legal";
 import ContactPage from "./pages/legal/Contact";
 
-import CookieBanner, { readConsent } from "./components/CookieBanner";
-
 export default function App() {
 
   // ✅ On loading: if the user has already accepted, the scripts are reloaded.
